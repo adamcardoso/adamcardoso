@@ -9,10 +9,15 @@ I am a Computer Science student looking for opportunities and collaboration in p
 
 💼 Tools: <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" /> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
+🎓📚 Education: <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" /> <img src="" />
+
 🎞 Streaming (Hobby): [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/infantry0701)
 
 💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamcardoso)
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adam-júnior-cardoso-142a61ab/)
+
+<img src="" />
