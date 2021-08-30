@@ -13,9 +13,7 @@ I am a Computer Science student looking for opportunities and collaboration in p
 
 🎞 Streaming (Hobby): [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/infantry0701)
 
-💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
-
-
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamcardoso)
 
+💌 If you want to carry out a project with me (or make small talk), don't hesitate to send me a message: ⤵️
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adam-júnior-cardoso-142a61ab/)
