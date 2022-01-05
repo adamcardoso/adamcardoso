@@ -13,7 +13,7 @@ I am a Computer Science student looking for opportunities and collaboration in p
 
 🎞 Streaming (Hobby): [<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/infantry0701) [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCtc0Ey5fsfHBiYrMiqAP_Zg)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=adamcardoso) 
+<img src="https://github-readme-stats.vercel.app/api?username=adamcardoso">
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=adamcardoso)
 
