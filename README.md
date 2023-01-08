@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">, my name is Adam Cardoso!<br><br>I am a Computer Science student looking for opportunities and collaboration in projects related to Java language. I'm always excited to learn new technologies.<br><br>If you want to carry out a project with me (or make small talk), don't hesitate to send me a message.
+Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">, my name is Adam Cardoso!<br><br>I am a computer science student seeking opportunities and collaboration on projects related to the Java language. I am always excited to learn new technologies.<br><br>If you are interested in working on a project with me or just want to chat, please don't hesitate to send me a message.
 
 
 ## 🌐 Socials:
